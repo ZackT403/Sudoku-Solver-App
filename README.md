@@ -1,3 +1,2 @@
 # Sudoku-Solver-App
-A Simple React Native Sudoku Solver App
-[GitHub](http://github.com)
+A Simple [React Native](https://github.com/facebook/react-native) Sudoku Solver App
